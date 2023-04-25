@@ -1,0 +1,26 @@
+
+
+
+React - Front End Development
+
+- Create project : npx create-react-app project-name
+- run project : npm start
+- to add routing : npm i react-router-dom
+
+
+
+- Features
+1. Component based approach
+2. JSX (JavaScript XML)
+3. Virtual DOM
+4. Fast 
+
+
+
+Angular                    React                      Vue
+
+1. Framework - google       Library- facebook
+2. Typescript
+3. Real DOM
+4. Bi-directional
+data building
